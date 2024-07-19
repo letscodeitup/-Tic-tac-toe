@@ -1,6 +1,7 @@
 # Tic-tac-toe
-1.This is a simple implementation of the Tic-Tac-Toe game in Python. The game is played on a 3x3 grid, where two players take turns to mark a square with their respective symbol ('X' or 'O'). 
-The player who first places three of their symbols in a horizontal, vertical, or diagonal row wins the game.
+1. This is a simple implementation of the Tic-Tac-Toe game in Python.
+2.  The game is played on a 3x3 grid, where two players take turns to mark a square with their respective symbol ('X' or 'O'). 
+3. The player who first places three of their symbols in a horizontal, vertical, or diagonal row wins the game.
 
 # Features
 1.User Input Validation: Ensures that the input is a digit between 1 and 9 and that the chosen position on the board is empty.
